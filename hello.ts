@@ -10,3 +10,6 @@ console.log("Hello World")
 // }
 
 // greet("Gautam" , new Date())
+
+const greet:string =  "Hello World"
+
